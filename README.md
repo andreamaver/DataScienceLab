@@ -14,7 +14,7 @@ The project consists in the analysis of the second wave of the COVID-19 virus th
 
 The data was downloaded from a Github repository, now unfortunately deleted, that updated every day the numbers about the virus, like infected, deaths and hospitalizations
 
-You can check out the full paper (available only in Italian) describing all the steps in great detail at: [Analisi della seconda ondata di Covid-19 in Italia](https://github.com/andreamaver/DataScienceLab/blob/main/Progetto DS Lab.pdf  "Progetto DS Lab.pdf").
+You can check out the full paper (available only in Italian) describing all the steps in great detail at: [Analisi della seconda ondata di Covid-19 in Italia](https://github.com/andreamaver/DataScienceLab/blob/main/Progetto%20DS%20Lab.pdf).
 
 In the [Data](https://github.com/andreamaver/DataScienceLab/tree/main/Data) folder all the files used to create the final database can be found. The project was created using the R programming language.
 
