@@ -37,7 +37,7 @@ In the [Data](https://github.com/andreamaver/DataScienceLab/tree/main/Data) fold
 
 * [GitHub](https://github.com/andreamaver)
 
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
 **Anna Nava - Data Science Graduate @ University of Milano-Bicocca**
 
